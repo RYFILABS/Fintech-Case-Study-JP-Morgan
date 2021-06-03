@@ -17,3 +17,5 @@ Despite their CEO's initial dismissal of digital assets, they have now become th
 ### What is the prognosis for this company? Where do they expect to be in the future?
 
 JP Morgan plans to contiune leading the investment banking world they way that they have since the 19th Century. They have come to the realization that to accomplish this they must be on the cutting edge of financial technology or else they run the risk of becoming extinct as countless companies before them that did not want to adapt to modern technology.
+
+JP Morgan is making sure that they stay ahead of their competition by developing their JPM Coin.
